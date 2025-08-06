@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>My Audio Feed</title>
+    <link>https://funappointment9658.github.io/blackscare/</link>
+    <description>Black Scare RSS Feed</description>
+    <language>en-us</language>
+    <item>
+      <title>Poddington</title>
+      <description>The ladies discuss NYT Magazine's latest contribution to dating discourse</description>
+      <pubDate>Wed, 06 Aug 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia601603.us.archive.org/34/items/Poddington/Poddington.mp3" length="140,640,633" type="audio/mpeg"/>
+      <guid>https://ia601603.us.archive.org/34/items/Poddington/Poddington.mp3</guid>
+    </item>
+  </channel>
+</rss>
