@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Audio Feed</title>
+    <title>Black Scare</title>
     <link>https://funappointment9658.github.io/blackscare/</link>
-    <description>Black Scare RSS Feed</description>
+    <description>A short description of your podcast.</description>
     <language>en-us</language>
+    <itunes:author>Fun Appointment</itunes:author>
+    <itunes:summary>Black Scare Feed</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Society & Culture"/>
+    <itunes:image href="https://github.com/FunAppointment9658/blackscare/blob/main/AnnaDasha.jpg"/>
+
     <item>
       <title>Poddington</title>
-      <description>The ladies discuss NYT Magazine's latest contribution to dating discourse</description>
-      <pubDate>Wed, 06 Aug 2025 12:00:00 GMT</pubDate>
-      <enclosure url="https://ia601603.us.archive.org/34/items/Poddington/Poddington.mp3" length="140,640,633" type="audio/mpeg"/>
+      <description>The ladies discuss NYT Magazine's latest contribution to dating discourse.</description>
+      <link>https://yourusername.github.io/my-podcast/</link>
+      <pubDate>Wed, 30 Jul 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia601603.us.archive.org/34/items/Poddington/Poddington.mp3" length="140,640,633" type="audio/mpeg" />
       <guid>https://ia601603.us.archive.org/34/items/Poddington/Poddington.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
     </item>
+
   </channel>
 </rss>
