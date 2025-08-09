@@ -23,5 +23,16 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
 
+       
+    <item>
+      <title>HIB Positive</title>
+      <description>The ladies are back discussing the limits of Western medicine and the Sydney Sweeney AE ad controversy after Dasha's near death experience.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Wed, 08 Aug 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://archive.org/download/hib-positive/HIB_Positive.mp3" length="7056317" type="audio/mpeg" />
+      <guid>hhttps://archive.org/download/hib-positive/HIB_Positive.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
