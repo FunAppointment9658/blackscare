@@ -23,7 +23,6 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
 
-       
     <item>
       <title>HIB Positive</title>
       <description>The ladies are back discussing the limits of Western medicine and the Sydney Sweeney AE ad controversy after Dasha's near death experience.</description>
@@ -34,5 +33,15 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
 
+     <item>
+      <title>Ethel Cain't</title>
+      <description>The ladies discuss Lana's forthcoming diss track and alleged beef with Ethel Cain, Trump's summit with Putin in Alaska, and Doreen St. Felix of the New Yorker's resurfaced racist posts.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Wed, 19 Aug 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://archive.org/download/ethelcaint/ethelcaint.mp3" length="75642321" type="audio/mpeg" />
+      <guid>https://archive.org/download/ethelcaint/ethelcaint.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+       
   </channel>
 </rss>
