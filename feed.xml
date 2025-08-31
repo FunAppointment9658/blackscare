@@ -43,5 +43,15 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
        
+    <item>
+      <title>Labubu Trap</title>
+      <description>The ladies discuss the lure of Labubu and the rise of "rightwing nihilism."</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Wed, 30 Aug 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia801009.us.archive.org/18/items/1_20250831/1.mp3" length="94691926" type="audio/mpeg" />
+      <guid>https://ia801009.us.archive.org/18/items/1_20250831/1.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+       
   </channel>
 </rss>
