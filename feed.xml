@@ -53,5 +53,14 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
        
+    <item>
+      <title>Vax Scene</title>
+      <description>The ladies discuss Trump and RFK Jr.'s public health battles and more.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Wed, 10 Sept 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia600908.us.archive.org/32/items/vax-scene/Vax%20Scene.mp3" length="108755015" type="audio/mpeg" />
+      <guid>https://ia600908.us.archive.org/32/items/vax-scene/Vax%20Scene.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>       
   </channel>
 </rss>
