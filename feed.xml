@@ -72,6 +72,16 @@
       <guid>https://ia601001.us.archive.org/25/items/je-suis-charlie/Je_Suis_Charlie.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
     </item> 
+ 
+    <item>
+      <title>Jimmy Krimmenal</title>
+      <description>The ladies discuss Jimmy Kimmel's temporary cancellation, Trump's H-1B fee, and the new Kanye doc, In Whose Name?</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Wed, 24 Sep 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia600306.us.archive.org/2/items/jimmy-krimmenal/Jimmy_Krimmenal.mp3" length="112010941" type="audio/mpeg" />
+      <guid>https://ia600306.us.archive.org/2/items/jimmy-krimmenal/Jimmy_Krimmenal.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item> 
        
   </channel>
 </rss>
