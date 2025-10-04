@@ -82,6 +82,17 @@
       <guid>https://ia600306.us.archive.org/2/items/jimmy-krimmenal/Jimmy_Krimmenal.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
     </item> 
+
+    <item>
+      <title>Podcast of Our Discontent w/ Thomas Chatterton Williams</title>
+      <description>Thomas Chatterton Williams returns to the pod to talk about his new book Summer of Our Discontent: The Age of Certainty and the Demise of Discourse.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Sat, 04 Oct 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia600303.us.archive.org/29/items/podcast-of-our-discontent/Podcast_of_Our_Discontent.mp3" length="180435079" type="audio/mpeg" />
+      <guid>https://ia600303.us.archive.org/29/items/podcast-of-our-discontent/Podcast_of_Our_Discontent.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item> 
+
        
   </channel>
 </rss>
