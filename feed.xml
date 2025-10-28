@@ -112,6 +112,15 @@
       <guid>https://ia601004.us.archive.org/33/items/Nyetwork/Nyetwork.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
     </item> 
-      
+       
+    <item>
+      <title>Ok Gooner</title>
+      <description>The ladies discuss the NYC mayoral race, Luigi's missing months, and the anthropology of gooning.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Tue, 28 Oct 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia800104.us.archive.org/33/items/ok-gooner/Ok_Gooner.mp3" length="147231307" type="audio/mpeg" />
+      <guid>https://ia800104.us.archive.org/33/items/ok-gooner/Ok_Gooner.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>       
   </channel>
 </rss>
