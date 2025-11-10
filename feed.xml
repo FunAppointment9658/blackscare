@@ -132,5 +132,15 @@
       <guid>https://ia601000.us.archive.org/29/items/only-haters/Only_Haters.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
     </item>    
+     
+    <item>
+      <title>460 - Mom Dommy</title>
+      <description>The ladies discuss Zohran Mamdani's mayoral victory, Peter Thiel on why capitalism isn't working for the youth, and whether it's embarrassing to have a boyfriend now.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Mon, 10 Nov 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia601606.us.archive.org/5/items/mom-dommy/Mom_Dommy.mp3" length="106067107" type="audio/mpeg" />
+      <guid>https://ia601606.us.archive.org/5/items/mom-dommy/Mom_Dommy.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>    
   </channel>
 </rss>
