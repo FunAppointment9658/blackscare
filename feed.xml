@@ -142,5 +142,15 @@
       <guid>https://ia601606.us.archive.org/5/items/mom-dommy/Mom_Dommy.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
     </item>    
+     
+    <item>
+      <title>461 - Nuzzi Salute</title>
+      <description>The ladies discuss Dasha's recent controversy and Olivia Nuzzi's comeback. This episode is sponsored by ALP Nicotine Pouches. Enter promo code DASHA for 10% off your next order.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Fri, 21 Nov 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia902906.us.archive.org/6/items/nuzzi-salute/Nuzzi_Salute.mp3" length="110810968" type="audio/mpeg" />
+      <guid>https://ia902906.us.archive.org/6/items/nuzzi-salute/Nuzzi_Salute.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>  
   </channel>
 </rss>
