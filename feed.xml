@@ -162,5 +162,15 @@
       <guid>https://ia801702.us.archive.org/14/items/trumps-delight/Trumps_Delight.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
     </item>  
+       
+    <item>
+      <title>463 - Jail Play</title>
+      <description>The ladies discuss Jeremy O. Harris going to Japanese prison, the Minneapolis Somali fraud scandal, Zohran Mamdani's pledge to stop sweeping homeless encampments, and the middle aged women soft quitting their marriages in The New York Times and The Cut.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Tue, 9 Dec 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia601706.us.archive.org/9/items/jail-play/Jail%20Play.mp3" length="182802559" type="audio/mpeg" />
+      <guid>https://ia601706.us.archive.org/9/items/jail-play/Jail%20Play.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>  
   </channel>
 </rss>
