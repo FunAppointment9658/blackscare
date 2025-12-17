@@ -172,5 +172,15 @@
       <guid>https://ia601706.us.archive.org/9/items/jail-play/Jail%20Play.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
     </item>  
+       
+    <item>
+      <title>464 - Brown Shooter</title>
+      <description>The ladies discuss the mass shootings at Bondi Beach and Brown University, Bari Weiss and Erika Kirk's CBS Town Hall, and the antisemitism generational divide.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Wed, 17 Dec 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia601704.us.archive.org/28/items/brown-shooter/Brown_Shooter.mp3" length="113507195 " type="audio/mpeg" />
+      <guid>https://ia601704.us.archive.org/28/items/brown-shooter/Brown_Shooter.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>  
   </channel>
 </rss>
