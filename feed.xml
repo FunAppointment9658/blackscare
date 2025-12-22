@@ -178,8 +178,19 @@
       <description>The ladies discuss the mass shootings at Bondi Beach and Brown University, Bari Weiss and Erika Kirk's CBS Town Hall, and the antisemitism generational divide.</description>
       <link>https://funappointment9658.github.io/blackscare/</link>
       <pubDate>Wed, 17 Dec 2025 12:00:00 GMT</pubDate>
-      <enclosure url="https://dn720900.ca.archive.org/0/items/brown-shooter/Brown_Shooter.mp3" length="113507195 " type="audio/mpeg" />
+      <enclosure url="https://dn720900.ca.archive.org/0/items/brown-shooter/Brown_Shooter.mp3" length="113507195" type="audio/mpeg" />
       <guid>https://dn720900.ca.archive.org/0/items/brown-shooter/Brown_Shooter.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>  
+
+    <item>
+      <title>465 - Holiday Loveline 2025</title>
+      <description>
+The ladies answer your burning love and sex questions just in time for the holidays!</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Mon, 22 Dec 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia801702.us.archive.org/29/items/holiday-loveline-2025/Holiday_Loveline_2025.mp3" length="82000000" type="audio/mpeg" />
+      <guid>https://ia801702.us.archive.org/29/items/holiday-loveline-2025/Holiday_Loveline_2025.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
     </item>  
   </channel>
