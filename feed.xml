@@ -202,5 +202,15 @@
       <guid>https://ia801609.us.archive.org/30/items/bye-bye-bb/Bye_Bye_BB.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
     </item>  
+       
+    <item>
+      <title>467 - Martyr Supreme</title>
+      <description>The ladies review Marty Supreme and discuss the Minneapolis ICE shooting.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Mon, 12 Jan 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia601300.us.archive.org/19/items/martyr-supreme/Martyr_Supreme.mp3" length="125355120" type="audio/mpeg" />
+      <guid>https://ia601300.us.archive.org/19/items/martyr-supreme/Martyr_Supreme.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>  
   </channel>
 </rss>
