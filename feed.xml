@@ -212,5 +212,15 @@
       <guid>https://ia601300.us.archive.org/19/items/martyr-supreme/Martyr_Supreme.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
     </item>  
+
+     <item>
+      <title>468 - Blow It Like Beckham</title>
+      <description>The ladies discuss Davos, Greenland, and Brooklyn Beckham's family feud.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Mon, 26 Jan 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia600309.us.archive.org/34/items/blow-it-like-beckham/Blow_It_Like_Beckham.mp3" length="130627281" type="audio/mpeg" />
+      <guid>https://ia600309.us.archive.org/34/items/blow-it-like-beckham/Blow_It_Like_Beckham.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>  
   </channel>
 </rss>
