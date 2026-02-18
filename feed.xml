@@ -242,5 +242,15 @@
       <guid>https://ia600108.us.archive.org/5/items/slop-er-bowl/Slop-er_Bowl.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
     </item>  
+
+     <item>
+      <title>471 - Smothering Heights</title>
+      <description>The ladies review Emerald Fennell's Wuthering Heights.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Wed, 18 Feb 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia601400.us.archive.org/20/items/smothering-heights/Smothering_Heights.mp3" length="74811332" type="audio/mpeg" />
+      <guid>https://ia601400.us.archive.org/20/items/smothering-heights/Smothering_Heights.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>        
   </channel>
 </rss>
