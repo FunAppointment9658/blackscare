@@ -251,6 +251,17 @@
       <enclosure url="https://ia601400.us.archive.org/20/items/smothering-heights/Smothering_Heights.mp3" length="74811332" type="audio/mpeg" />
       <guid>https://ia601400.us.archive.org/20/items/smothering-heights/Smothering_Heights.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
-    </item>        
+    </item>   
+
+     <item>
+      <title>472 - Stop Wasian Hate</title>
+      <description>The ladies discuss Hapa Olympians Alysa Liu and Eileen Gu, the State of the Union address, and the BAFTA Tourette's scandal.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Fri, 27 Feb 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia902901.us.archive.org/0/items/stop-wasian-hate/Stop_Wasian_Hate.mp3" length="117571056" type="audio/mpeg" />
+      <guid>https://ia902901.us.archive.org/0/items/stop-wasian-hate/Stop_Wasian_Hate.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>    
+       
   </channel>
 </rss>
