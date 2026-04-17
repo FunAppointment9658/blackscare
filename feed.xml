@@ -313,5 +313,15 @@
       <itunes:explicit>no</itunes:explicit>
     </item>   
 
+     <item>
+      <title>478 - Eric Swolewell</title>
+      <description>The ladies discuss the demise of the girlboss, Eric Swalwell's lukewarm MeToo, and Trump's feud with the Pope.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia600606.us.archive.org/25/items/eric-swolewell/Eric_Swolewell.mp3" length="129444657" type="audio/mpeg" />
+      <guid>https://ia600606.us.archive.org/25/items/eric-swolewell/Eric_Swolewell.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>   
+
   </channel>
 </rss>
