@@ -323,5 +323,15 @@
       <itunes:explicit>no</itunes:explicit>
     </item>   
 
+     <item>
+      <title>479 - Podsick</title>
+      <description>The ladies review Lena Dunham's new memoir Famesick.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia601507.us.archive.org/7/items/Podsick/Podsick.mp3" length="131987268" type="audio/mpeg" />
+      <guid>https://ia601507.us.archive.org/7/items/Podsick/Podsick.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>   
+
   </channel>
 </rss>
