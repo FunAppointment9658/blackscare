@@ -333,5 +333,15 @@
       <itunes:explicit>no</itunes:explicit>
     </item>   
 
+     <item>
+      <title>480 - Shoplifters of the Third World</title>
+      <description>The ladies discuss the White House Correspondents' Dinner shooter and shoplifting as political protest.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Sat, 02 May 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia902909.us.archive.org/2/items/shoplifters-of-the-third-world/Shoplifters_Of_The_Third_World.mp3" length="99239004" type="audio/mpeg" />
+      <guid>https://ia902909.us.archive.org/2/items/shoplifters-of-the-third-world/Shoplifters_Of_The_Third_World.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>   
+
   </channel>
 </rss>
