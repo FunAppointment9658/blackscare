@@ -343,5 +343,15 @@
       <itunes:explicit>no</itunes:explicit>
     </item>   
 
+     <item>
+      <title>481 - Met Gala Fashion Police w/ Elena Velez</title>
+      <description><![CDATA[Elena Velez is back to review Met Gala 2026 looks with the ladies. <a href="https://ia600400.us.archive.org/15/items/metgala-2026/METGALA2026.pdf">PDF here.</a>.]]></description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia601607.us.archive.org/16/items/met-gala-fashion-police/Met_Gala_Fashion_Police.mp3" length="127290934" type="audio/mpeg" />
+      <guid>https://ia601607.us.archive.org/16/items/met-gala-fashion-police/Met_Gala_Fashion_Police.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>   
+
   </channel>
 </rss>
