@@ -353,5 +353,15 @@
       <itunes:explicit>no</itunes:explicit>
     </item>   
 
+     <item>
+      <title>482 - Pratt Summer</title>
+      <description>The ladies discuss the threat of hantavirus, the return of Spencer Pratt, and Olivia Rodrigo's "pedobaiting."</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia601004.us.archive.org/13/items/pratt-summer/Pratt_Summer.mp3" length="69036627" type="audio/mpeg" />
+      <guid>https://ia601004.us.archive.org/13/items/pratt-summer/Pratt_Summer.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>   
+
   </channel>
 </rss>
