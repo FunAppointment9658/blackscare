@@ -363,5 +363,19 @@
       <itunes:explicit>no</itunes:explicit>
     </item>   
 
+
+   <item>
+      <title>483 - Call Her Pregnant</title>
+      <description>The ladies discuss Lea Seydoux's existentialist moment, Alex Cooper's pregnancy panic, and the latest batch of UFO disclosures.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Fri, 22 May 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia601603.us.archive.org/6/items/call-her-pregnant/Call_Her_Pregnant.mp3" length="76936627" type="audio/mpeg" />
+      <guid>https://ia601603.us.archive.org/6/items/call-her-pregnant/Call_Her_Pregnant.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>   
+
+
+
+
   </channel>
 </rss>
