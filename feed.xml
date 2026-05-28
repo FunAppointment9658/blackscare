@@ -363,7 +363,6 @@
       <itunes:explicit>no</itunes:explicit>
     </item>   
 
-
    <item>
       <title>483 - Call Her Pregnant</title>
       <description>The ladies discuss Lea Seydoux's existentialist moment, Alex Cooper's pregnancy panic, and the latest batch of UFO disclosures.</description>
@@ -374,7 +373,15 @@
       <itunes:explicit>no</itunes:explicit>
     </item>   
 
-
+   <item>
+      <title>484 - Practices in Podcasting w/ Sigh Swoon</title>
+      <description>Gabi Abrão aka Sigh Swoon stops by the pod to discuss posting, freebleeding, spirituality, and her new book, Practices in Apparition.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Fri, 28 May 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia903100.us.archive.org/11/items/practices-in-podcasting/Practices-in-Podcasting.mp3" length="107284900" type="audio/mpeg" />
+      <guid>https://ia903100.us.archive.org/11/items/practices-in-podcasting/Practices-in-Podcasting.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>   
 
 
   </channel>
