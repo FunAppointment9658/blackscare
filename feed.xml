@@ -383,7 +383,6 @@
       <itunes:explicit>no</itunes:explicit>
     </item>   
 
-
    <item>
       <title>485 - Slopsara</title>
       <description>The ladies discuss the Pope's debut encyclical on AI and the supposed return of dick size anxiety.</description>
@@ -391,6 +390,17 @@
       <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
       <enclosure url="https://ia601608.us.archive.org/19/items/Slopsara/Slopsara.mp3" length="74454303" type="audio/mpeg" />
       <guid>https://ia601608.us.archive.org/19/items/Slopsara/Slopsara.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>   
+
+
+   <item>
+      <title>486 - Pod Session</title>
+      <description>The ladies review Obsession and discuss hetero-optimism.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia600406.us.archive.org/30/items/pod-session/Pod_Session.mp3" length="89018990" type="audio/mpeg" />
+      <guid>https://ia600406.us.archive.org/30/items/pod-session/Pod_Session.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
     </item>   
 
