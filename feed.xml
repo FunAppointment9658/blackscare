@@ -393,7 +393,6 @@
       <itunes:explicit>no</itunes:explicit>
     </item>   
 
-
    <item>
       <title>486 - Pod Session</title>
       <description>The ladies review Obsession and discuss hetero-optimism.</description>
@@ -401,6 +400,16 @@
       <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
       <enclosure url="https://ia600406.us.archive.org/30/items/pod-session/Pod_Session.mp3" length="89018990" type="audio/mpeg" />
       <guid>https://ia600406.us.archive.org/30/items/pod-session/Pod_Session.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>   
+
+   <item>
+      <title>487 - Pride Loveline</title>
+      <description>The ladies answer your burning sex and love questions just in time for Pride Month.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia903202.us.archive.org/29/items/pride-loveline/Pride_Loveline.mp3" length="105763283" type="audio/mpeg" />
+      <guid>https://ia903202.us.archive.org/29/items/pride-loveline/Pride_Loveline.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
     </item>   
 
