@@ -12,7 +12,47 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="History"/>
     <itunes:image href="https://raw.githubusercontent.com/FunAppointment9658/blackscare/main/AnnaDasha.jpg"/>
+       
+   <item>
+      <title>487 - Pride Loveline</title>
+      <description>The ladies answer your burning sex and love questions just in time for Pride Month.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia903202.us.archive.org/29/items/pride-loveline/Pride_Loveline.mp3" length="105763283" type="audio/mpeg" />
+      <guid>https://ia903202.us.archive.org/29/items/pride-loveline/Pride_Loveline.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>   
+       
+   <item>
+      <title>486 - Pod Session</title>
+      <description>The ladies review Obsession and discuss hetero-optimism.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia600406.us.archive.org/30/items/pod-session/Pod_Session.mp3" length="89018990" type="audio/mpeg" />
+      <guid>https://ia600406.us.archive.org/30/items/pod-session/Pod_Session.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>   
+       
+   <item>
+      <title>485 - Slopsara</title>
+      <description>The ladies discuss the Pope's debut encyclical on AI and the supposed return of dick size anxiety.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia601608.us.archive.org/19/items/Slopsara/Slopsara.mp3" length="74454303" type="audio/mpeg" />
+      <guid>https://ia601608.us.archive.org/19/items/Slopsara/Slopsara.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>   
 
+   <item>
+      <title>484 - Practices in Podcasting w/ Sigh Swoon</title>
+      <description>Gabi Abrão aka Sigh Swoon stops by the pod to discuss posting, freebleeding, spirituality, and her new book, Practices in Apparition.</description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Fri, 28 May 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia903100.us.archive.org/11/items/practices-in-podcasting/Practices-in-Podcasting.mp3" length="107284900" type="audio/mpeg" />
+      <guid>https://ia903100.us.archive.org/11/items/practices-in-podcasting/Practices-in-Podcasting.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>   
+       
     <item>
       <title>448 - Poddington</title>
       <description>The ladies discuss NYT Magazine's latest contribution to dating discourse.</description>
@@ -372,47 +412,6 @@
       <guid>https://ia601603.us.archive.org/6/items/call-her-pregnant/Call_Her_Pregnant.mp3</guid>
       <itunes:explicit>no</itunes:explicit>
     </item>   
-
-   <item>
-      <title>484 - Practices in Podcasting w/ Sigh Swoon</title>
-      <description>Gabi Abrão aka Sigh Swoon stops by the pod to discuss posting, freebleeding, spirituality, and her new book, Practices in Apparition.</description>
-      <link>https://funappointment9658.github.io/blackscare/</link>
-      <pubDate>Fri, 28 May 2026 12:00:00 GMT</pubDate>
-      <enclosure url="https://ia903100.us.archive.org/11/items/practices-in-podcasting/Practices-in-Podcasting.mp3" length="107284900" type="audio/mpeg" />
-      <guid>https://ia903100.us.archive.org/11/items/practices-in-podcasting/Practices-in-Podcasting.mp3</guid>
-      <itunes:explicit>no</itunes:explicit>
-    </item>   
-
-   <item>
-      <title>485 - Slopsara</title>
-      <description>The ladies discuss the Pope's debut encyclical on AI and the supposed return of dick size anxiety.</description>
-      <link>https://funappointment9658.github.io/blackscare/</link>
-      <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-      <enclosure url="https://ia601608.us.archive.org/19/items/Slopsara/Slopsara.mp3" length="74454303" type="audio/mpeg" />
-      <guid>https://ia601608.us.archive.org/19/items/Slopsara/Slopsara.mp3</guid>
-      <itunes:explicit>no</itunes:explicit>
-    </item>   
-
-   <item>
-      <title>486 - Pod Session</title>
-      <description>The ladies review Obsession and discuss hetero-optimism.</description>
-      <link>https://funappointment9658.github.io/blackscare/</link>
-      <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
-      <enclosure url="https://ia600406.us.archive.org/30/items/pod-session/Pod_Session.mp3" length="89018990" type="audio/mpeg" />
-      <guid>https://ia600406.us.archive.org/30/items/pod-session/Pod_Session.mp3</guid>
-      <itunes:explicit>no</itunes:explicit>
-    </item>   
-
-   <item>
-      <title>487 - Pride Loveline</title>
-      <description>The ladies answer your burning sex and love questions just in time for Pride Month.</description>
-      <link>https://funappointment9658.github.io/blackscare/</link>
-      <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
-      <enclosure url="https://ia903202.us.archive.org/29/items/pride-loveline/Pride_Loveline.mp3" length="105763283" type="audio/mpeg" />
-      <guid>https://ia903202.us.archive.org/29/items/pride-loveline/Pride_Loveline.mp3</guid>
-      <itunes:explicit>no</itunes:explicit>
-    </item>   
-
 
   </channel>
 </rss>
