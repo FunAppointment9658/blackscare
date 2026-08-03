@@ -12,6 +12,16 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="History"/>
     <itunes:image href="https://raw.githubusercontent.com/FunAppointment9658/blackscare/main/AnnaDasha.jpg"/>
+
+   <item>
+      <title>491 - Nothing Left</title>
+      <description>Fundraiser turned author Evan Barker joins the ladies to discuss her new book Nothing Left: Confessions of a Democratic Operative. </description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Sun, 26 Jul 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia600502.us.archive.org/13/items/nothing-left_202608/Nothing_Left.mp3" length="102002650" type="audio/mpeg" />
+      <guid>https://ia600502.us.archive.org/13/items/nothing-left_202608/Nothing_Left.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>     
        
    <item>
       <title>490 - The Podyssey</title>
