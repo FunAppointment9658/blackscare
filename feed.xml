@@ -12,7 +12,17 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="History"/>
     <itunes:image href="https://raw.githubusercontent.com/FunAppointment9658/blackscare/main/AnnaDasha.jpg"/>
-
+       
+   <item>
+      <title>492 - Pray Arday Away</title>
+      <description>The ladies discuss the latest Cambridge plagiarism scandal and Jason Arday's resignation, Hasan Piker's latest puff piece and AOC freezing her eggs.  </description>
+      <link>https://funappointment9658.github.io/blackscare/</link>
+      <pubDate>Sun, 26 Jul 2026 12:00:00 GMT</pubDate>
+      <enclosure url="hthttps://ia600404.us.archive.org/6/items/pray-arday-away/Pray_Arday_Away.mp3" length="69198908" type="audio/mpeg" />
+      <guid>https://ia600404.us.archive.org/6/items/pray-arday-away/Pray_Arday_Away.mp3</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>     
+       
    <item>
       <title>491 - Nothing Left</title>
       <description>Fundraiser turned author Evan Barker joins the ladies to discuss her new book Nothing Left: Confessions of a Democratic Operative. </description>
